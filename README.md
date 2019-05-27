@@ -1,2 +1,4 @@
 # Horse-Racing-Project
 Create dataset &amp; Exploratory Data Analysis
+
+This project is my own idea and a way of learning data science skills. I am an enthusiast of horse racing and here I can go deeper into analysing the sport even more. The analysis was created to predict the results of the future races, purely for scientific research. I wondered which features are the most important to look for before the race or maybe if there is any randomness in results, if so at what level. Is it only about horses or the jockey play a significant role as well? Does the weather have influence? Do some of the horses prefer the hard track over elastic one? There can many question be asked. The project starts with web scraping to collect the data and preparing the data for further analysis in Part 1. And will be continuted in the next parts to answer all the questions I can think of relevant with help of machine learing algorithms. 
